@@ -36,8 +36,11 @@ But, what is Docker?
 
 \- [Docker](https://www.docker.com)
 
-To get started, go through the first step in the Docker getting started guide ([Mac](http://docs.docker.com/mac/step_one/), [Windows](http://docs.docker.com/windows/step_one/) or [Linux](http://docs.docker.com/linux/step_one/)). Then come back here!
+To get started, go through the first step in the Docker getting started guide ([Mac](http://docs.docker.com/mac/step_one/), [Windows](http://docs.docker.com/windows/step_one/) or [Linux](http://docs.docker.com/linux/step_one/)). 
 
+You also need to install the docker-compose tools [Docker-compose](https://docs.docker.com/compose/install/) 
+
+After that come back here!
 
 ## Installing the playground
 
